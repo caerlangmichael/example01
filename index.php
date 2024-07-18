@@ -6,6 +6,14 @@
     <title>HELLO PHP</title>
 </head>
 <body>
+   <table>
+   <th></th> 
+   <td>
+    
+    </td>
+
+
+   </table>
     <h1>hello World!</h1>
      <h1>hello World!</h1>
      <h1>hello World!</h1>
